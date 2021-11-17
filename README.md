@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Ariel Ortiz and I’m a iOS developer.
+- 👋 Hi, my name is Ariel Ortiz and I’m an iOS developer.
 - 👀 I’m interested in Mobile development especially in iOS and also machine learning. 
 - 🌱 I’m currently learning Metal API to create 3D graphics.
 - 📫 How to reach me ... <a href="https://www.linkedin.com/in/ariel-ortiz-b66979186/">LinkedIn</a>
